@@ -90,6 +90,10 @@ h1{
         width: 50vw;
     }
 
+    h1{
+        text-align: center;
+    }
+    
     #name, #va {
         font-size: 8vw;
     }
