@@ -1,3 +1,3 @@
 # Virtual-assistant
 
-![alt text][img/Home.png]
+![Homepage Image](images/Home.png)
