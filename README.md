@@ -1,3 +1,3 @@
 # Virtual-assistant
 
-![alt text][img/Home.png]
+![img][img/Home.png]
